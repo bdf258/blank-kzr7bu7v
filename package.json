@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/material.blank-kzr7bu7v",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve nXqtGJwzL5i3Ieq43xll --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
